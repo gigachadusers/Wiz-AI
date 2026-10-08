@@ -1,1 +1,2 @@
-unresticted ai run this command in cmd prompt once ollam a is installed: ollama pull huihui_ai/qwen3-abliterated:14b
+unrestricted ai run this command in cmd prompt once ollam a is installed:   ollama pull huihui_ai/qwen3-abliterated:14b
+somtimes this model talks in chinease so if you use this model ensure to add in english at the start of your prompt
