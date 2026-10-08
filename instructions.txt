@@ -5,3 +5,4 @@ somtimes this model talks in chinease so if you use this model ensure to add in 
 make sure python is installed first
 
 then follow the guide in readme or watch the youtube video linked below and linked in readmne
+https://youtu.be/YgSGwQWj5kc
