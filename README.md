@@ -1,5 +1,10 @@
 # WIZ AI (ReadMe Created By wiz ai as part of a test lol)
 
+unforntly github wont let me upload the latest wiz ai build as it is to big
+the latest build includes web learning and browsing features so you can either use
+the version on here or get the latest open source version from
+t.me/wizz3ardai
+
 **Local AI created by Wizz3ard.**
 
 Wiz AI is a complete, local-first AI platform that runs on your own computer using [Ollama](https://ollama.com).
